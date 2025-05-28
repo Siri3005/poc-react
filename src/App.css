@@ -1,0 +1,40 @@
+.hero {
+  padding-top: 100px; /* adjust to make space below fixed header */
+  text-align: center;
+  padding-bottom: 60px;
+  background: #f8f9fa;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-title {
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  color: #222;
+}
+
+.hero-subtitle {
+  font-size: 18px;
+  color: #555;
+  max-width: 600px;
+  margin-bottom: 24px;
+}
+
+.hero-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.hero-button:hover {
+  background-color: #0056b3;
+}

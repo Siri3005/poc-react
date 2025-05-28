@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Demonstrate Need",
+    "desc": "Describe the problem you’re trying to solve or the reason your product needs to exist. Identify customer pain points by interviewing a sample group from your target market.",
+    "checked": true,
+    "notes": " bn "
+  },
+  {
+    "title": "Envision Solutions",
+    "desc": "Use customer feedback to brainstorm solutions. Assess your ideas based on constraints, such as time, cost, resources, and technology.",
+    "checked": false,
+    "notes": ""
+  },
+  {
+    "title": "Define POC Goals",
+    "desc": "What are you trying to achieve with your POC? Communicate with internal stakeholders to align goals.",
+    "checked": false,
+    "notes": ""
+  },
+  {
+    "title": "Specify Success Criteria",
+    "desc": "What metrics will you use to evaluate your idea? Define how to measure success.",
+    "checked": false,
+    "notes": ""
+  },
+  {
+    "title": "Identify Team",
+    "desc": "List the POC team members and their roles in the project.",
+    "checked": false,
+    "notes": ""
+  },
+  {
+    "title": "Create a Timeline",
+    "desc": "Estimate duration and key milestones for the POC execution.",
+    "checked": false,
+    "notes": ""
+  },
+  {
+    "title": "Plan Next Steps",
+    "desc": "Create a proposal for what happens if the POC is successful.",
+    "checked": false,
+    "notes": ""
+  }
+]
